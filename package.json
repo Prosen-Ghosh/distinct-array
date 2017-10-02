@@ -1,6 +1,6 @@
 {
   "name": "distinct-array",
-  "version": "0.0.9",
+  "version": "1.0.0",
   "description": "JavaScript Package for Creating an array without duplicates.",
   "main": "distinct.js",
   "scripts": {

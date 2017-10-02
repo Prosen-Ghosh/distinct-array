@@ -18,6 +18,19 @@ JavaScript Package for Creating an array without duplicates.
 
 `npm install --save distinct-array`
 
+## Script Tag
+
+#### For Development
+
+```js
+<script src="https://rawgit.com/Prosen-Ghosh/distinct-array/master/distinct.js"></script>
+```
+#### For Production
+
+```js
+<script src="https://cdn.rawgit.com/Prosen-Ghosh/distinct-array/14938117/distinct.js"></script>
+```
+
 ## Usage
 
 ```js

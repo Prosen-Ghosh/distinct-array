@@ -35,7 +35,7 @@ JavaScript Package for Creating an array without duplicates.
 
 ```js
 
-var distinct = require('distinct');
+var distinct = require('distinct-array');
 
 distinct([1,1,1,8,2,2,2,3,5,4,])
 //=> [ 1, 8, 2, 3, 5, 4 ]
